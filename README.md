@@ -1,0 +1,2 @@
+# video-player
+Tried my hand at creating a video player from scratch using basic JS. Functionalities related to the video itself that I built include toggling the full-screen, changing the playback rate, a mute-unmute button,  and an interactive progress bar. This was fairly easy to figure out, thanks to the fact that video functions already exist in JS; therefore, most of it's just a matter of pairing the right functions with the right document elements.
